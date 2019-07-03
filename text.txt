@@ -1,0 +1,3 @@
+Event modifier : .once
+				  .enter --fires on pressing enter
+				  >alt --pressing alt
